@@ -3,3 +3,8 @@ munich	Augsburg
          Koblenz							Hildesheim 	
 	falda								olderberg
 	numberg								berlin
+<<<<<<< HEAD
+ HEAD
+Master
+comment
+
